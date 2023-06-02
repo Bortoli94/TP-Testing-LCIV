@@ -1,4 +1,4 @@
-# Trabajo Practico N°2: Testing | LC IV
+# Trabajo Práctico N°2: Testing | LC IV
 
 ## Ejercicio práctico
 
